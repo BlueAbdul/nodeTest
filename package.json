@@ -1,0 +1,11 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "quick test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Abdul",
+  "license": "ISC"
+}
